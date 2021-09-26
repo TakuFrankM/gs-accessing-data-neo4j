@@ -8,6 +8,7 @@ public class AccessingDataNeo4jApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AccessingDataNeo4jApplication.class, args);
+		System.out.println("Hello World!");
 	}
 
 }
